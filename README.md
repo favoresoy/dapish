@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Project in a nutshell
 
-You can use the [editor on GitHub](https://github.com/favoresoy/dapish/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Privacy and trust are the key enablers for the usage of any sensitive personal data. This is especially the case for health and social data. Many times, the sensitivity prevents the usage of data even in cases where actual personal data would not be needed. There is not enough quality research and development in the field of algorithms and open source software to facilitate transformation of personal data into non-personal data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 5 categories
 
-### Markdown
+Data principles project will classify personal data into five categories: 
+1. Original data
+2. Pseudonymized data
+3. Anonymized data
+4. Synthetic data
+5. Fabricated data. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will explain each category in detail with specific use cases for health and social care and test and validate multiple open source libraries and algorithms to transform data from original data to each other four categories. 
 
-```markdown
-Syntax highlighted code block
+### Stay tuned
 
-# Header 1
-## Header 2
-### Header 3
+The project will kick off during 2019. Stay tuned for updates.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/favoresoy/dapish/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
